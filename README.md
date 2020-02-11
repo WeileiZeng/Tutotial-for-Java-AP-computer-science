@@ -1,7 +1,7 @@
 # Tutotial-for-Java-AP-computer-science
 A tutorial for AP computer science, using Java
 
-These are material used in an one-on-one tutoring program, for a high school student prepared for AP computer science exam.
+These are material used in an one-on-one tutoring program, for a high school student prepared for AP computer science exam. This document will be updated weekly
 
 Active dates: Feb 6 2020, - present
 

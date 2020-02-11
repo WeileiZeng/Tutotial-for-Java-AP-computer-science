@@ -16,7 +16,7 @@ Active dates: Feb 6 2020, - present
 
 
 ### Planned Schedule for 10-week classes (2 hour class each week)
-We plan to cover all the basic topics and the first two advanced topics in a period of 8 weeks.
+We plan to cover all the basic topics and the first two advanced topics in a period of 10 weeks.
 <h4>Learn the Basics</h4>
 <ul>
 <li><a href='https://www.learnjavaonline.org/en/Hello%2C_World%21'>Hello, World!</a></li>

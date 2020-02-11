@@ -17,7 +17,7 @@ Active dates: Feb 6 2020, - present
 
 ### Planned Schedule for 8-week classes (2 hour class each week)
 We plan to cover all the basic topics and the first two advanced topics in a period of 8 weeks.
-<h3>Learn the Basics</h3>
+<h4>Learn the Basics</h4>
 <ul>
 <li><a href='https://www.learnjavaonline.org/en/Hello%2C_World%21'>Hello, World!</a></li>
 <li><a href='https://www.learnjavaonline.org/en/Variables_and_Types'>Variables and Types</a></li>
@@ -28,7 +28,7 @@ We plan to cover all the basic topics and the first two advanced topics in a per
 <li><a href='https://www.learnjavaonline.org/en/Objects'>Objects</a></li>
 <li><a href='https://www.learnjavaonline.org/en/Compiling_and_Running_with_Arguments'>Compiling and Running with Arguments</a></li>
 </ul>
-<h3>Advanced Topics</h3>
+<h4>Advanced Topics</h4>
 <ul>
 <li><a href='https://www.learnjavaonline.org/en/Inheritance'>Inheritance</a></li>
 <li><a href='https://www.learnjavaonline.org/en/Try_and_Catch'>Try and Catch</a></li>
@@ -41,3 +41,15 @@ We plan to cover all the basic topics and the first two advanced topics in a per
 <li><a href='https://www.learnjavaonline.org/en/Generic_Types'>Generic Types</a></li>
 <li><a href='https://www.learnjavaonline.org/en/IO_Streams'>IO Streams</a></li>
 </ul>
+
+
+### class record
+* Week 1 Feb 6, 2020
+  * Give a general introduction of programming and how is this AP CS class related to the programming world. 
+  * Show some examples on what a programming language can do. For example, building a website, building a video game, calculate 1+2+3..+100=? and so on.
+  * Show how to use GitHub, a convenient way to manage and share your code. ( It is this website you are reading)
+  * learn the interface on MacBook, including how to open the terminal, how to write and run the code to print text (the so called 'hello world!') and produce sound.
+
+* Week 2 Feb 13, 2020
+
+  To be updated

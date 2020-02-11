@@ -15,7 +15,7 @@ Active dates: Feb 6 2020, - present
 2-hour class Every Tursday.
 
 
-### Planned Schedule for 8-week classes (2 hour class each week)
+### Planned Schedule for 10-week classes (2 hour class each week)
 We plan to cover all the basic topics and the first two advanced topics in a period of 8 weeks.
 <h4>Learn the Basics</h4>
 <ul>
